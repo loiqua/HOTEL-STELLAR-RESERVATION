@@ -1,0 +1,6 @@
+- afficher la liste des hotels dans une localisation donnees :  
+exemple de lieu : analakely,
+requete:
+
+SELECT * FROM hotel WHERE hotel_city = 'analakely';
+
