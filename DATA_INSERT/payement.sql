@@ -15,4 +15,15 @@ insert into payment (payment_mode, payment_value, id_reservation ) values ('visa
 insert into payment (payment_mode, payment_value, id_reservation ) values ('mastercard', 60000, 9);
 insert into payment (payment_mode, payment_value, id_reservation ) values ('mvola', 80000, 10);
 insert into payment (payment_mode, payment_value, id_reservation ) values ('mvola', 25000, 11);
+<<<<<<< HEAD
 insert into payment (payment_mode, payment_value, id_reservation ) values ('mvola', 60000, 12);
+insert into payment (payment_mode, payment_value, id_reservation ) values ('visa', 120100, 13);
+insert into payment (payment_mode, payment_value, id_reservation ) values ('visa', 252200, 14);
+insert into payment (payment_mode, payment_value, id_reservation ) values ('mastercard', 60000, 15);
+insert into payment (payment_mode, payment_value, id_reservation ) values ('mvola', 70000, 16);
+insert into payment (payment_mode, payment_value, id_reservation ) values ('mvola', 5000, 17);
+insert into payment (payment_mode, payment_value, id_reservation ) values ('mvola', 60000, 18);
+insert into payment (payment_mode, payment_value, id_reservation ) values ('mvola', 70000, 19);
+=======
+insert into payment (payment_mode, payment_value, id_reservation ) values ('mvola', 60000, 12);
+>>>>>>> 528ec1902c2b98b3295834c9e1a24921cffefef4
