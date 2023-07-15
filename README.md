@@ -18,4 +18,4 @@ O,n: 0 a plusieur
 0,1:0 a 1 max
 to-have:avoir
 to-be:etre
-take-by:prendre en charge.
+take-by:prendre en charge
