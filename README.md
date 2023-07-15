@@ -1,4 +1,4 @@
-# DEVSTORM-STELLAR-
+# DEVSTORM-STELLAR
 
 Vous trouverez ici les explication sur sur le MCD:
 
